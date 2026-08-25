@@ -93,7 +93,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=farhanaWdev"
+    src="./profile/streak.svg"
     alt="GitHub Contribution Streak"
   />
 </p>
