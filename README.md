@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, It's Farhana</h1>
+<h1 align="center">Hi 👋, I'm Farhana</h1>
 
 <h3 align="center">Frontend Developer 💻</h3>
 
@@ -14,10 +14,10 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I'm currently working on **React and Tailwind CSS Projects**
-- 🌱 I'm currently learning **Node.js**
-- 💻 I'm passionate about building responsive and interactive web experiences
-- 👯 I'm looking to collaborate on **Frontend Projects**
+* 🔭 I'm currently working on **React and Tailwind CSS Projects**
+* 🌱 I'm currently learning **Node.js**
+* 💻 I'm passionate about building responsive and interactive web experiences
+* 👯 I'm looking to collaborate on **Frontend Projects**
 
 ---
 
@@ -92,7 +92,10 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=farhanaWdev&hide_border=true" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=farhanaWdev"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -100,7 +103,11 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanaWdev&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farhanaWdev&hide_border=true&area=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -110,17 +117,3 @@
 <p align="center">
   <i>Thanks for visiting my GitHub profile 💻</i>
 </p>
-<!--
-**farhanaWdev/farhanaWdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
