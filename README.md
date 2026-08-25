@@ -93,8 +93,8 @@
 
 <p align="center">
   <img 
-    src="./profile/streak.svg"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com/?user=farhanaWdev&theme=dark&hide_border=false&card_width=495"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -104,9 +104,9 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farhanaWdev&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farhanaWdev&theme=github-dark&hide_border=true&area=true"
     width="100%"
-    alt="Contribution Graph"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
