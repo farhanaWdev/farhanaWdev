@@ -14,10 +14,10 @@
 
 ## 👩‍💻 About Me
 
-* 🔭 I'm currently working on **React and Tailwind CSS Projects**
-* 🌱 I'm currently learning **Node.js**
-* 💻 I'm passionate about building responsive and interactive web experiences
-* 👯 I'm looking to collaborate on **Frontend Projects**
+- 🔭 I'm currently working on **React and Tailwind CSS Projects**
+- 🌱 I'm currently learning **Node.js**
+- 💻 I'm passionate about building responsive and interactive web experiences
+- 👯 I'm looking to collaborate on **Frontend Projects**
 
 ---
 
@@ -92,8 +92,8 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=farhanaWdev&theme=dark&hide_border=false&card_width=495"
+  <img
+    src="https://streak-stats.demolab.com/?user=farhanaWdev&background=282A36&border=8A8A8A&stroke=8A8A8A&ring=FF6699&fire=FF6699&currStreakNum=61DAFB&sideNums=FF6699&currStreakLabel=61DAFB&sideLabels=FF6699&dates=FFFFFF&hide_border=false&card_width=495"
     alt="GitHub Streak"
   />
 </p>
@@ -103,7 +103,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=farhanaWdev&theme=github-dark&hide_border=true&area=true"
     width="100%"
     alt="GitHub Contribution Graph"
