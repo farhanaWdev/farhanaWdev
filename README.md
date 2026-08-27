@@ -112,8 +112,4 @@
 
 ---
 
-<h3 align="center">✨ Keep learning. Keep building. Keep growing. ✨</h3>
 
-<p align="center">
-  <i>Thanks for visiting my GitHub profile 💻</i>
-</p>
