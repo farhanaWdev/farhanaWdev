@@ -79,15 +79,16 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farhanaWdev&show_icons=true&hide_border=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanaWdev&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
-
-</p>
-
----
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=farhanaWdev&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanaWdev&layout=compact&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 🔥 GitHub Contribution Streak
 
