@@ -76,18 +76,6 @@
 ---
 
 
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-two-amber-62.vercel.app/api?username=farhanaWdev&show_icons=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-two-amber-62.vercel.app/api/top-langs/?username=farhanaWdev&layout=compact&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 ## 🔥 GitHub Contribution Streak
 
