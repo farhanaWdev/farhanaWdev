@@ -10,8 +10,6 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I'm currently working on **React and Tailwind CSS Projects**
-- 🌱 I'm currently learning **Node.js**
 - 💻 I'm passionate about building responsive and interactive web experiences
 
 ---
