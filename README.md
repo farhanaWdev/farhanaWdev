@@ -6,9 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=farhanaWdev&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
-##  About Me
 
-- Lost all interest in everything
+## About Me
+- Currently learning backend development & exploring new tools
+
 
 ---
 
