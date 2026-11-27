@@ -9,6 +9,7 @@
 
 ## About Me
 - Currently learning backend development & exploring new tools
+- Exploring databases, APIs, and how systems work behind the scenes
 
 
 ---
